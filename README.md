@@ -19,7 +19,7 @@ The model generates the output is a formated python code.
 
 > run requirements.txt
 
-> run app.py (run uvicorn api.main:app --reload)
+> run app.py (run uvicorn api.app:app --reload)
 
 > open this url on a browser http://127.0.0.1:8000/docs
 
